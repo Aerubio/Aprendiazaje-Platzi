@@ -1,0 +1,16 @@
+ * RECUSOS DE HTML *
+    - https://developer.mozilla.org/es/docs/Web/HTML/Element
+
+==================================================================
+
+* RECURSOS CSS *
+    
+    > Juegos para paracticar
+
+        - Para practicar selectores y propiedades https://flukeout.github.io/
+        - para practicar grid y flexbox https://codingfantasy.com/games
+        - para practicar grid https://cssgridgarden.com/#es
+        - para practicar flexbox https://flexboxfroggy.com/#es
+    
+
+==================================================================
